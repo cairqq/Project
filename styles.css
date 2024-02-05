@@ -1,0 +1,51 @@
+/* The code on lines 3-7 makes the background of the header black and the text of the title of the webpage white. Change this to match what you want for your website! */
+header {
+    background-color: #CBC3E3;
+    color: black;
+    padding: 128px 10px;
+    border: 20px solid black;
+    margin: 20px;
+
+
+
+
+}
+
+
+
+.drake {
+    width: 50px;
+    width: 100%;
+}
+
+
+.lucki2 {
+    width: 65px;
+    width: 81%;
+}
+
+body {
+    background-color: white;
+    font-size: 50px;
+    color: white;
+    font-family: 'Roboto Mono';
+
+}
+
+
+a {
+    color: black;
+    font-size: 50px;
+}
+
+h2 {
+    color: black;
+}
+
+h4 {
+    color: black;
+}
+
+p {
+    color: black;
+}
